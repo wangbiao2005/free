@@ -1,0 +1,8 @@
+{
+  "name": "Free - 终极工具箱",
+  "description": "全网最全面的免费工具套件。包含高级视频处理、AI 自动化和基于开源技术的安全本地文件处理。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
